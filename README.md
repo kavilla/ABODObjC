@@ -1,7 +1,5 @@
 # ABODObjC
 
-## Important: when you download this please run "pod install" from the terminal for dependencies.
-
 Coding test using Objective-C for ABODO.
 
 ## Real-world example:
