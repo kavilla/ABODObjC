@@ -1,5 +1,7 @@
 # ABODObjC
 
+## Please run the workspace project
+
 Coding test using Objective-C for ABODO.
 
 ## Real-world example:
